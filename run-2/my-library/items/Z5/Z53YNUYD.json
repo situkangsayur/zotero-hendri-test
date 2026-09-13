@@ -15,6 +15,16 @@
 			"title": "Full Text PDF"
 		},
 		{
+			"dateAdded": "2026-09-13T08:45:27Z",
+			"dateModified": "2026-09-13T08:45:27Z",
+			"itemType": "note",
+			"key": "6QDCSZEW",
+			"note": "<p>Note written on computer B</p>",
+			"parentItem": "Z53YNUYD",
+			"relations": {},
+			"tags": []
+		},
+		{
 			"annotationAuthorName": "",
 			"annotationColor": "#ffd400",
 			"annotationComment": "Thesis",
@@ -57,7 +67,12 @@
 		"itemType": "conferencePaper",
 		"libraryID": 1,
 		"libraryName": "My Library",
-		"notes": [],
+		"notes": [
+			{
+				"key": "6QDCSZEW",
+				"title": "Note written on computer B"
+			}
+		],
 		"title": "Attention Is All You Need",
 		"year": "2017",
 		"zoteroURI": "zotero://select/library/items/Z53YNUYD"

@@ -12,6 +12,12 @@ date-modified: "2026-09-13 08:44:38"
 
 # Attention Is All You Need
 
+## Notes
+
+### Note written on computer B
+
+Note written on computer B
+
 ## Attachments
 
 - [vaswani-2017.pdf](../../attachments/3V/3V6K6M72/vaswani-2017.pdf)
