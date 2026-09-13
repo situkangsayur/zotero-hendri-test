@@ -1,0 +1,27 @@
+{
+	"children": [],
+	"meta": {
+		"attachments": [],
+		"collections": [],
+		"creators": [],
+		"itemType": "conferencePaper",
+		"libraryID": 1,
+		"libraryName": "My Library",
+		"notes": [],
+		"title": "Mask R-CNN",
+		"year": "2017",
+		"zoteroURI": "zotero://select/library/items/3ARAD82Y"
+	},
+	"zotero": {
+		"collections": [],
+		"creators": [],
+		"date": "2017",
+		"dateAdded": "2026-09-13T08:45:13Z",
+		"dateModified": "2026-09-13T08:45:13Z",
+		"itemType": "conferencePaper",
+		"key": "3ARAD82Y",
+		"relations": {},
+		"tags": [],
+		"title": "Mask R-CNN"
+	}
+}
