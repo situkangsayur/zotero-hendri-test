@@ -1,0 +1,27 @@
+{
+	"children": [],
+	"meta": {
+		"attachments": [],
+		"collections": [],
+		"creators": [],
+		"itemType": "conferencePaper",
+		"libraryID": 1,
+		"libraryName": "My Library",
+		"notes": [],
+		"title": "Deep Residual Learning for Image Recognition",
+		"year": "2016",
+		"zoteroURI": "zotero://select/library/items/6DXVN3HM"
+	},
+	"zotero": {
+		"collections": [],
+		"creators": [],
+		"date": "2016",
+		"dateAdded": "2026-09-13T08:44:39Z",
+		"dateModified": "2026-09-13T08:44:39Z",
+		"itemType": "conferencePaper",
+		"key": "6DXVN3HM",
+		"relations": {},
+		"tags": [],
+		"title": "Deep Residual Learning for Image Recognition"
+	}
+}

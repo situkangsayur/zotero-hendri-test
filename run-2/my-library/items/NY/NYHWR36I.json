@@ -1,0 +1,27 @@
+{
+	"children": [],
+	"meta": {
+		"attachments": [],
+		"collections": [],
+		"creators": [],
+		"itemType": "journalArticle",
+		"libraryID": 1,
+		"libraryName": "My Library",
+		"notes": [],
+		"title": "BERT: Pre-training of Deep Bidirectional Transformers",
+		"year": "2019",
+		"zoteroURI": "zotero://select/library/items/NYHWR36I"
+	},
+	"zotero": {
+		"collections": [],
+		"creators": [],
+		"date": "2019",
+		"dateAdded": "2026-09-13T08:44:38Z",
+		"dateModified": "2026-09-13T08:44:38Z",
+		"itemType": "journalArticle",
+		"key": "NYHWR36I",
+		"relations": {},
+		"tags": [],
+		"title": "BERT: Pre-training of Deep Bidirectional Transformers"
+	}
+}

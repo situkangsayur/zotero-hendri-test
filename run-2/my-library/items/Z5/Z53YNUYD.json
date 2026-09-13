@@ -1,0 +1,77 @@
+{
+	"children": [
+		{
+			"charset": "",
+			"contentType": "application/pdf",
+			"dateAdded": "2026-09-13T08:44:39Z",
+			"dateModified": "2026-09-13T08:44:39Z",
+			"filename": "vaswani-2017.pdf",
+			"itemType": "attachment",
+			"key": "3V6K6M72",
+			"linkMode": "imported_file",
+			"parentItem": "Z53YNUYD",
+			"relations": {},
+			"tags": [],
+			"title": "Full Text PDF"
+		},
+		{
+			"annotationAuthorName": "",
+			"annotationColor": "#ffd400",
+			"annotationComment": "Thesis",
+			"annotationPageLabel": "1",
+			"annotationPosition": "{\"pageIndex\":0,\"rects\":[[72,700,360,724]]}",
+			"annotationSortIndex": "00000|000700|00072",
+			"annotationText": "Attention Is All You Need",
+			"annotationType": "highlight",
+			"dateAdded": "2026-09-13T08:44:39Z",
+			"dateModified": "2026-09-13T08:44:39Z",
+			"itemType": "annotation",
+			"key": "J4IKAETV",
+			"parentItem": "3V6K6M72",
+			"relations": {},
+			"tags": []
+		}
+	],
+	"meta": {
+		"attachments": [
+			{
+				"annotationCount": 1,
+				"contentType": "application/pdf",
+				"filename": "vaswani-2017.pdf",
+				"files": [
+					{
+						"path": "attachments/3V/3V6K6M72/vaswani-2017.pdf",
+						"size": 403,
+						"storage": "git"
+					}
+				],
+				"key": "3V6K6M72",
+				"linkMode": "imported_file",
+				"status": "ok",
+				"title": "Full Text PDF",
+				"url": null
+			}
+		],
+		"collections": [],
+		"creators": [],
+		"itemType": "conferencePaper",
+		"libraryID": 1,
+		"libraryName": "My Library",
+		"notes": [],
+		"title": "Attention Is All You Need",
+		"year": "2017",
+		"zoteroURI": "zotero://select/library/items/Z53YNUYD"
+	},
+	"zotero": {
+		"collections": [],
+		"creators": [],
+		"date": "2017",
+		"dateAdded": "2026-09-13T08:44:38Z",
+		"dateModified": "2026-09-13T08:44:38Z",
+		"itemType": "conferencePaper",
+		"key": "Z53YNUYD",
+		"relations": {},
+		"tags": [],
+		"title": "Attention Is All You Need"
+	}
+}

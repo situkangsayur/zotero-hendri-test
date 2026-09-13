@@ -1,0 +1,27 @@
+{
+	"children": [],
+	"meta": {
+		"attachments": [],
+		"collections": [],
+		"creators": [],
+		"itemType": "journalArticle",
+		"libraryID": 1,
+		"libraryName": "My Library",
+		"notes": [],
+		"title": "ImageNet Classification with Deep Convolutional Neural Networks",
+		"year": "2017",
+		"zoteroURI": "zotero://select/library/items/G5U4AHKU"
+	},
+	"zotero": {
+		"collections": [],
+		"creators": [],
+		"date": "2017",
+		"dateAdded": "2026-09-13T08:44:39Z",
+		"dateModified": "2026-09-13T08:44:39Z",
+		"itemType": "journalArticle",
+		"key": "G5U4AHKU",
+		"relations": {},
+		"tags": [],
+		"title": "ImageNet Classification with Deep Convolutional Neural Networks"
+	}
+}

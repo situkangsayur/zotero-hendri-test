@@ -1,0 +1,15 @@
+{
+	"generator": "zotero-github-sync",
+	"libraries": [
+		{
+			"collectionCount": 0,
+			"directory": "my-library",
+			"id": 1,
+			"itemCount": 5,
+			"name": "My Library",
+			"type": "user"
+		}
+	],
+	"pluginVersion": "0.2.1",
+	"schema": 1
+}
