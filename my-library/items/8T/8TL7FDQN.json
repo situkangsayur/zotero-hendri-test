@@ -1,0 +1,32 @@
+{
+	"children": [],
+	"meta": {
+		"attachments": [],
+		"collections": [],
+		"creators": [],
+		"itemType": "annotation",
+		"libraryID": 1,
+		"libraryName": "My Library",
+		"notes": [],
+		"title": "“Attention Is All You Need” Thesis",
+		"year": "",
+		"zoteroURI": "zotero://select/library/items/8TL7FDQN"
+	},
+	"zotero": {
+		"annotationAuthorName": "",
+		"annotationColor": "#ffd400",
+		"annotationComment": "Thesis",
+		"annotationPageLabel": "1",
+		"annotationPosition": "{\"pageIndex\":0,\"rects\":[[72,700,360,724]]}",
+		"annotationSortIndex": "00000|000700|00072",
+		"annotationText": "Attention Is All You Need",
+		"annotationType": "highlight",
+		"dateAdded": "2026-09-13T08:41:41Z",
+		"dateModified": "2026-09-13T08:41:41Z",
+		"itemType": "annotation",
+		"key": "8TL7FDQN",
+		"parentItem": "7ZK7A4TA",
+		"relations": {},
+		"tags": []
+	}
+}

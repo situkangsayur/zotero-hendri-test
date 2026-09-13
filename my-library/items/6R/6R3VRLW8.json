@@ -1,0 +1,27 @@
+{
+	"children": [],
+	"meta": {
+		"attachments": [],
+		"collections": [],
+		"creators": [],
+		"itemType": "book",
+		"libraryID": 1,
+		"libraryName": "My Library",
+		"notes": [],
+		"title": "Deep Learning",
+		"year": "2016",
+		"zoteroURI": "zotero://select/library/items/6R3VRLW8"
+	},
+	"zotero": {
+		"collections": [],
+		"creators": [],
+		"date": "2016",
+		"dateAdded": "2026-09-13T08:41:41Z",
+		"dateModified": "2026-09-13T08:41:41Z",
+		"itemType": "book",
+		"key": "6R3VRLW8",
+		"relations": {},
+		"tags": [],
+		"title": "Deep Learning"
+	}
+}
