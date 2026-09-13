@@ -4,7 +4,7 @@ This directory is written by the [Zotero GitHub Sync](https://github.com/situkan
 
 ## Libraries
 
-- [My Library](my-library/index.md) — 6 item(s), 0 collection(s)
+- [My Library](my-library/index.md) — 5 item(s), 0 collection(s)
 
 ## Layout
 
